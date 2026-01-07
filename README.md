@@ -3,9 +3,12 @@
 ### AuctionSwift — AI-Powered Auction Management Platform  
 *Private team project (repository not public)*
 
-- Contributed to the development of a full-stack web platform for managing and cataloging auction inventory
-- Built and refined frontend components for item entry, review, and visualization
-- Integrated AI-assisted workflows for item descriptions and comparable pricing
+> This project was previously deployed via Google Cloud Run.  
+> The live service is no longer publicly available.
+
+- Contributed to a full-stack platform for managing and cataloging estate auction inventory
+- Built and refined React-based frontend components for item entry, review, and visualization
+- Integrated AI-assisted workflows for generating item descriptions and comparable pricing
 - Collaborated on backend API design and database interactions
 
 ---
