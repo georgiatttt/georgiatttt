@@ -8,6 +8,17 @@
 - Integrated AI-assisted workflows for item descriptions and comparable pricing
 - Collaborated on backend API design and database interactions
 
+### 🌴 Salt Island
+Visual web app that helps users understand daily sodium intake through a playful, interactive coconut-tree metaphor.
+
+- Fetches real nutrition data using the Open Food Facts API
+- Represents sodium intake with dynamically sized coconuts and a leaning tree
+- Includes visual threshold feedback at the daily sodium limit
+- Built with React and Vite, deployed on Vercel
+
+🔗 Live Demo: https://sodium-tracker.vercel.app  
+🔗 Repository: https://github.com/georgiatttt/sodium_tracker
+
 <!--
 **georgiatttt/georgiatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
