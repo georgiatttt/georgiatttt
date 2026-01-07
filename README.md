@@ -1,4 +1,12 @@
-## Hi there 👋
+## Selected Project Experience
+
+### AuctionSwift — AI-Powered Auction Management Platform  
+*Private team project (repository not public)*
+
+- Contributed to the development of a full-stack web platform for managing and cataloging auction inventory
+- Built and refined frontend components for item entry, review, and visualization
+- Integrated AI-assisted workflows for item descriptions and comparable pricing
+- Collaborated on backend API design and database interactions
 
 <!--
 **georgiatttt/georgiatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
