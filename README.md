@@ -8,7 +8,7 @@
 - Integrated AI-assisted workflows for item descriptions and comparable pricing
 - Collaborated on backend API design and database interactions
 
-### 🌴 Salt Island
+### Salt Island
 Visual web app that helps users understand daily sodium intake through a playful, interactive coconut-tree metaphor.
 
 - Fetches real nutrition data using the Open Food Facts API
