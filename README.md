@@ -6,10 +6,10 @@
 > This project was previously deployed via Google Cloud Run.  
 > The live service is no longer publicly available.
 
-- Contributed to a full-stack platform for managing and cataloging estate auction inventory
-- Built and refined React-based frontend components for item entry, review, and visualization
-- Integrated AI-assisted workflows for generating item descriptions and comparable pricing
-- Collaborated on backend API design and database interactions
+- Contributed to a full-stack platform designed to support low cost, independent estate liquidation through structured auction workflows.
+- Built and refined React-based frontend components for bulk item entry, item review, and auction visualization, optimized for managing large estates with hundreds of items.
+- Designed and integrated backend APIs and database interactions to store, organize, and retrieve item, auction, and bid data reliably.
+- Supported auction management workflows that enabled sellers to efficiently create, manage, and monitor estate auctions through a unified dashboard.
 
 ---
 ### Salt Island
